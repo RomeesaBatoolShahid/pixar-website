@@ -1,0 +1,66 @@
+h1{
+    
+    text-align: center;
+    font-size: 100px;
+    font-weight: 4000;
+    
+}
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+
+}
+.main2{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+ }
+ #main3{
+    position: relative;
+    top: 150px;
+    color: black;
+}
+#main3 ul{
+    list-style-type: none;
+    color: black;
+   
+}
+.ul1{
+    font-weight: 500;
+    line-height: 40px;
+    position: absolute;
+    
+}
+.ul2{
+    font-weight: 500;
+    line-height: 40px;
+    position: absolute;
+    right: 1500px;
+}
+
+.ul3{
+    font-weight: 500;
+    line-height: 40px;
+    position: absolute;
+    right: 1300px;
+}
+#main4{
+position: absolute;
+right: 40px;
+}
+.logo2{
+    position: absolute;
+    top: 200px;
+    right: 30px;
+}
+.ab{
+position: absolute;
+top: 400px;
+left: -300px;
+}
+.cd{
+    position: absolute;
+top: 400px;
+left: -150px;
+}
